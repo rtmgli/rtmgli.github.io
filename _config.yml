@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "air" # Currently available options are "default", "air"
-title                    : "Giulia Ortame / PhD Student @ IoA & KICC"
+title                    : "Giulia Ortame"
 title_separator          : "-"
 name                     : &name "Giulia Ortame"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -28,7 +28,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Astrophysics PhD Student"
   location         : "Cambridge, United Kingdom"
-  employer         : "University of Cambridge"
+  employer         : "Institute of Astronomy (IoA) and Kavli Institute for Cosmology (KICC), University of Cambridge"
   uri              : # URL
   email            : "go288@cam.ac.uk" 
 
